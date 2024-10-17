@@ -10,7 +10,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "net.daedric.ntfy"
+        applicationId "pt.aguiarvieira.ntfy"
         minSdkVersion 21
         targetSdkVersion 33
 
